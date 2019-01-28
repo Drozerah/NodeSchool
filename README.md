@@ -12,6 +12,6 @@ These workshops focus on essential skills for working with [Node.js](https://nod
 
 **Functional programming** features of JavaScript
 - [Functional Javascript](https://github.com/timoxley/functional-javascript-workshop)
-    - Go and see [my solutions]() for this workshop 
+    - Go and see [my solutions](https://github.com/Drozerah/NodeSchool/tree/master/Functional-Javascript) for this workshop 
 
 
