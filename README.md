@@ -6,7 +6,7 @@ NodeSchool is an open source project run by volunteers with two goals: to create
 
 ## Workshops
 
-These workshopps focus on essential skills for working with [Node.js](https://nodejs.org/en/)
+These workshops focus on essential skills for working with [Node.js](https://nodejs.org/en/)
 
 ## Map
 
