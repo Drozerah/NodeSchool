@@ -14,7 +14,7 @@ const countWords = input => {
 
 }
 
-// official colution
+// official solution
 
 // function countWords(arr) {
 //     return arr.reduce(function(countMap, word) {
